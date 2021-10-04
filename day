@@ -156,7 +156,7 @@ if(expirydate>today and playday==today):
             hero()
     else:
             banner='figlet RXCE'
-        print("admin on telegram @
+    
 elif(expirydate>today):
     banner='figlet RXCE'
     system(banner)
