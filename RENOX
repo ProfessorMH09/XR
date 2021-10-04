@@ -138,14 +138,14 @@ if(expirydate>today):
             #        period=280
             #        #hero()
            if(now>Fifth and now<Fifthend):
-            period=300
+            #         period=300
+            #        #hero()
             #banner='figlet RXCE'
             #system(banner)
             #print("Server Overloading.....")
-            #time.sleep(3)
+            #time.sleep(2)
             #print("Please try again later")
             #exit()
-            hero()
     elif(now>Sixth and now<Sixthend):
             period=340
             hero()
