@@ -137,9 +137,7 @@ if(expirydate>today):
             #if (now>Fourth and now<Fourthend):
             #        period=280
             #        #hero()
-           if(now>Fifth and now<Fifthend):
-            #            period=300
-            #         #hero()
+
     elif(now>Sixth and now<Sixthend):
             period=340
             hero()
